@@ -1,0 +1,3 @@
+Dự án SVN trên GitHub: my-subversion-project
+URL dự án: https://github.com/Nhat10/my-subversion-project
+Checkout SVN: svn checkout https://github.com/Nhat10/my-subversion-project/trunk
